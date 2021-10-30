@@ -1,5 +1,6 @@
 venv/
 dist/
 build/
-
+__pychace__/
+.idea/
 *crypt

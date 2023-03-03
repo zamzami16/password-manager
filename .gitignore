@@ -3,4 +3,8 @@ dist/
 build/
 __pychace__/
 .idea/
-*crypt
+*.crypt
+.env/
+*.pyc
+__pycache__/DataModels.cpython-39.pyc
+__pycache__/
